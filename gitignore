@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual environment
+venv/
+myenv/
+.env/
+newenv/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit / Flask / temp files
+*.db
+*.sqlite3
+*.wav
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.tmp
+*.cache
+
+# Jupyter
+.ipynb_checkpoints/
