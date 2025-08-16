@@ -1,0 +1,9 @@
+moviepy==2.2.1
+groq==0.31.0
+dotenv==0.9.9
+streamlit==1.37.0
+streamlit-option-menu==0.4.0
+Flask==3.1.1
+PyPDF2==3.0.1
+streamlit==1.37.0
+requests==2.31.0
